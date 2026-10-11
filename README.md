@@ -37,3 +37,9 @@
 * **`SpawnVolume`**: 지정된 바운딩 박스 안에서 임의의 위치에 지정된 아이템 목록 중 하나를 스폰 시킵니다.
 * **`SpartaGameInstance`**: 레벨을 넘나들어도 사라지지 않는 누적 점수와 현재 진행 중인 레벨 인덱스를 저장합니다.
 * **`SpartaPlayerController`**: 사용자 입력 액션 매핑 및 게임 오버나 일시 정지 시 보여줄 UI/HUD 처리를 관장합니다.
+---
+
+https://github.com/user-attachments/assets/bd8a48a3-69c6-4647-8c2d-c11dab6bde33
+
+
+
